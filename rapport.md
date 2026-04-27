@@ -6,7 +6,7 @@
 
 `Date` : 27 avril 2026
 
-`Note` : Nous nous sommes aidé de l'IA afin de corriger et reformuler le rapport afin de rendre un rapport cohérent, juste et agréable à lire. Nous sommes conscient que cela n'est pas l'idéal mais au vu de la longueur du laboratoire avec les scripts et les manipulations, on a pu gagner du temps. Je précise bien que toute les manipulations et recherches ont été faites par nous, comme le montre toute les copies de nos terminals.
+`Note` : Nous nous sommes aidé de l'IA afin de corriger et reformuler le rapport afin de rendre un rapport cohérent, juste et agréable à lire.
 
 ---
 
