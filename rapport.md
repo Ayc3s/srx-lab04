@@ -6,8 +6,6 @@
 
 `Date` : 27 avril 2026
 
-`Note` : Nous nous sommes aidé de l'IA afin de corriger et reformuler le rapport afin de rendre un rapport cohérent, juste et agréable à lire.
-
 ---
 
 ## 2 OpenVPN
